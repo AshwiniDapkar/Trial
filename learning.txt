@@ -4,6 +4,9 @@ JAVA
 Spring Boot
 JPA
 
+Hibernate
+JDBC
+
 
 
 Thank You!!!
